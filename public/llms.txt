@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מפה נומרולוגית אישית לנשים בצמתי חיים. אימון מנטלי משולב נומרולוגיה לבהירות, כיוון והחלטות מיושרות. התחילי את המסע שלך עכשיו.
+
+### אודות
+https://example.com/about
+נופר כוהנה משלבת חוכמה רוחנית עם אימון מעשי. גישה ייחודית שמכבדת עומק רוחני ופעולה מעוגנת למציאת הכיוון האמיתי שלך.
+
+### שיטה ושירותים
+https://example.com/services
+מפה נומרולוגית אישית, סדנאות והרצאות לנשים. שילוב ייחודי של ניתוח נומרולוגי ואימון מנטלי לבהירות והחלטות נכונות בצמתי חיים.
+
+### צור קשר
+https://example.com/contact
+מוכנה לבהירות אמיתית? צרי קשר לשיחת היכרות ראשונית. גלי איך מפה נומרולוגית אישית ואימון מנטלי יכולים להוביל אותך לכיוון הנכון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - נופר כוהנה - אימון מנטלי ונומרולוגיה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - נופר כוהנה - אימון מנטלי ונומרולוגיה
+
+### Category
+https://example.com/category/:slug
+מוצרים - נופר כוהנה - אימון מנטלי ונומרולוגיה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
